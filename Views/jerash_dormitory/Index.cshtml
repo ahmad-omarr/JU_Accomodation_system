@@ -1,0 +1,135 @@
+﻿@model SystemWebDorms.ViewModels.VM_Front
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- Start dorms -->
+<div class="dorms mt-5 mb-5">
+    <div class="container">
+        <div class="spical-heder mb-5 text-center">
+            <h1>@Model.SystemSetting.SystemSettingJerashDorm</h1>
+        </div>
+        <!-- start single room  -->
+        <div class="row">
+            <h3 class="text-black-50 mb-5">
+                <i class="fa-solid fa-plus"></i> single room
+            </h3>
+            @foreach (var item in Model.ListTransInternationalDormSingleRoom)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/WebImages/TransInternationalDormSingleRoom/@item.TransJerashDormSingleRoomImage" alt="" />
+                        <h3>@item.TransJarashDormSingleRoomTitle</h3>
+                        <p class="Brief text-center p-2">
+                            @item.TransJerashDormSingleRoomBrief
+                        </p>
+                        <h3 class="mt-3">@item.TransJerashDormSingleRoomLinkUrl</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="">payment</a>
+                    </div>
+                </div>
+
+            }
+
+        </div>
+        <!-- End single room   -->
+        <!-- start Double room (two sisters)  -->
+
+        <div class="row mt-5">
+            <h3 class="text-black-50 mb-5">
+                <i class="fa-solid fa-plus"></i> Double room (two sisters)
+            </h3>
+            @foreach (var item in Model.ListTransInternationalDormDoubleRoomSister)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/WebImages/TransInternationalDormDoubleRoomSister/@item.TransJerashDormDoubleRoomSistersImage" alt="" />
+                        <h3>@item.TransJarashDormDoubleRoomSistersTitle</h3>
+                        <p class="Brief text-center p-2">
+                            @item.TransJerashDormDoubleRoomSistersBrief
+                        </p>
+                        <h3 class="mt-3">@item.TransJerashDormDoubleRoomSistersLinkUrl</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="">payment</a>
+                    </div>
+                </div>
+
+            }
+        </div>
+
+        <!-- End Double room (two sisters)  -->
+        <!-- start Double room (two females)  -->
+
+        <div class="row mt-5">
+            <h3 class="text-black-50 mb-5">
+                <i class="fa-solid fa-plus"></i> Double room (two females)
+            </h3>
+            @foreach (var item in Model.ListTransInternationalDormDoubleRoom)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/WebImages/TransInternationalDormDoubleRoom/@item.TransJerashDormDoubleRoomImage" alt="" />
+                        <h3>@item.TransJarashDormDoubleRoomTitle</h3>
+                        <p class="Brief text-center p-2">
+                            @item.TransJerashDormDoubleRoomBrief
+                        </p>
+                        <h3 class="mt-3">@item.TransJerashDormDoubleRoomLinkUrl</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="">payment</a>
+                    </div>
+                </div>
+
+            }
+        </div>
+
+        <!-- End Double room (two females)  -->
+        <!-- start Triple system room  -->
+
+        <div class="row mt-5">
+            <h3 class="text-black-50 mb-5">
+                <i class="fa-solid fa-plus"></i> Triple system room
+            </h3>
+            @foreach (var item in Model.ListTransInternationalDormTripleRoom)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/WebImages/TransInternationalDormTripleRoom/@item.TransJerashDormTripleRoomImage" alt="" />
+                        <h3>@item.TransJarashDormTripleRoomTitle</h3>
+                        <p class="Brief text-center p-2">
+                            @item.TransJerashDormTripleRoomBrief
+                        </p>
+                        <h3 class="mt-3">@item.TransJerashDormTripleRoomLinkUrl</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="">payment</a>
+                    </div>
+                </div>
+
+            }
+        </div>
+
+        <!-- End Triple system room  -->
+        <!-- start Temporary overnight stay (one night)  -->
+
+        <div class="row mt-5">
+            <h3 class="text-black-50 mb-5">
+                <i class="fa-solid fa-plus"></i> Temporary overnight stay (one
+                night)
+            </h3>
+            @foreach (var item in Model.ListTransInternationalDormNightRoom)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/WebImages/TransInternationalDormNightRoom/@item.TransJerashDormNightRoomImage" alt="" />
+                        <h3>@item.TransJarashDormNightRoomTitle</h3>
+                        <p class="Brief text-center p-2">
+                            @item.TransJerashDormNightRoomBrief
+                        </p>
+                        <h3 class="mt-3">@item.TransJerashDormNightRoomLinkUrl</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="">payment</a>
+                    </div>
+                </div>
+
+            }
+        </div>
+
+        <!-- End Temporary overnight stay (one night)  -->
+    </div>
+</div>
+<!-- end dorms -->

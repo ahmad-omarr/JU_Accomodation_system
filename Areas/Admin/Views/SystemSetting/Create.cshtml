@@ -1,0 +1,122 @@
+﻿@model SystemWebDorms.Areas.Admin.ViewModels.VM_SystemSetting
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+
+<div class="pagetitle">
+    <h1>System Setting</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="SystemSetting">Manage System Setting</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div class="row">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingTitleDorm" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingTitleDorm" class="form-control" />
+                                    <span asp-validation-for="SystemSettingTitleDorm" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingBriefDorm" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingBriefDorm" class="form-control" />
+                                    <span asp-validation-for="SystemSettingBriefDorm" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingBriefFooter" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingBriefFooter" class="form-control" />
+                                    <span asp-validation-for="SystemSettingBriefFooter" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingZahraaDorm" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingZahraaDorm" class="form-control" />
+                                    <span asp-validation-for="SystemSettingZahraaDorm" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingAndalusDorm" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingAndalusDorm" class="form-control" />
+                                    <span asp-validation-for="SystemSettingAndalusDorm" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingJerashDorm" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingJerashDorm" class="form-control" />
+                                    <span asp-validation-for="SystemSettingJerashDorm" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingAmmonDorm" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="SystemSettingAmmonDorm" class="form-control" />
+                                    <span asp-validation-for="SystemSettingAmmonDorm" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingLogoNav" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="File_LogoNav" class="form-control" required />
+                                    <span asp-validation-for="File_LogoNav" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="SystemSettingLogoFooter" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="File_LogoFooter" class="form-control" required />
+                                    <span asp-validation-for="File_LogoFooter" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group " style="direction:rtl;">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+
+
+@*@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@

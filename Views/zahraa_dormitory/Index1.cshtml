@@ -1,0 +1,51 @@
+﻿@model SystemWebDorms.ViewModels.VM_Front
+
+@{
+    ViewData["Title"] = "Index";
+
+
+}
+
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Finate - Job Portal Website Template Using Bootstrap 5" />
+    <meta name="keywords" content="accessories, digital products, electronic html, modern, products, responsive" />
+    <meta name="author" content="hastech" />
+
+    <link href="~/lib/css/Style.css" rel="stylesheet" />
+</head>
+
+<body>
+    <form action="/" method="post">
+        <div class="payment">
+            <p class="payTittle"> Personal Information</p>
+            <label>Name and Surname</label>
+            <input type="text" placeholder="John Doe" class="payInput">
+            <label>Phone Number</label>
+            <input type="text" placeholder="+1 234 5678" class="payInput">
+            <label>Address</label>
+            <input type="text" placeholder="Elton St 21 22-145" class="payInput">
+            <p class="payTittle">Card Information</p>
+            <div class="cardIcons">
+                <img src="visa.png" width="40" alt="" class="cardIcon">
+                <img src="master.png" width="40" alt="" class="cardIcon">
+            </div>
+            <input type="password" class="payInput" placeholder="Card Number">
+            <div class="cardInfo">
+                <input type="text" placeholder="mm" class="payInput sm">
+                <input type="text" placeholder="yyyy" class="payInput sm">
+                <input type="text" placeholder="cvv" class="payInput sm">
+            </div>
+            <button class="payButton">Checkout!</button>
+            <span class="close">X</span>
+
+        </div>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,104 @@
+﻿@model SystemWebDorms.Areas.Admin.ViewModels.VM_MasterDorm
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="pagetitle">
+    <h1>Master Dorm</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="MasterDorm">Manage Dorm</a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Edit" enctype="multipart/form-data">
+                        <div class="row">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="MasterDormId"  />
+
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="MasterDormName" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterDormName" class="form-control" />
+                                    <span asp-validation-for="MasterDormName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="MasterDormBrief" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterDormBrief" class="form-control" />
+                                    <span asp-validation-for="MasterDormBrief" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="MasterDormLinkUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterDormLinkUrl" class="form-control" />
+                                    <span asp-validation-for="MasterDormLinkUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="MasterDormLinkMap" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="MasterDormLinkMap" class="form-control" />
+                                    <span asp-validation-for="MasterDormLinkMap" class="text-danger"></span>
+                                </div>
+                            </div>
+                            @*<div class="form-group">
+                                <label asp-for="MasterDormImage" class="control-label"></label>
+
+                                <input type="hidden" asp-for="MasterDormImage" class="form-control" />
+                                <img src="~/WebImages/MasterDorm/@Model.MasterDormImage  " style="max-width:30px" />
+
+                                <span asp-validation-for="MasterDormImage" class="text-danger"></span>
+                            </div>*@
+
+
+                        <div class="form-group row mb-3 col-md-6">
+                            <label asp-for="MasterDormImage" class="col-sm-3 col-form-label bold"></label>
+
+                            <div class="col-sm-9">
+
+                                <input asp-for="File" class="form-control"  />
+                                <input type="hidden" asp-for="MasterDormImage" class="form-control" />
+                                <img src="~/WebImages/MasterDorm/@Model.MasterDormImage  " style="max-width:70px" />
+                                <span asp-validation-for="File" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                            <div class="form-group " style="direction:rtl;">
+                                <input type="submit" value="Save" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

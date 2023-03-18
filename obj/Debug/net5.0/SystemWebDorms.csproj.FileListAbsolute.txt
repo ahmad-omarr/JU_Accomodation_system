@@ -1,0 +1,456 @@
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\appsettings.Development.json
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\appsettings.json
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.exe
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.deps.json
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.runtimeconfig.json
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.runtimeconfig.dev.json
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ref\SystemWebDorms.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.Views.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.Views.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Humanizer.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.AssemblyInfoInputs.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.AssemblyInfo.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.csproj.CoreCompileInputs.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.MvcApplicationPartsAssemblyInfo.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorAssemblyInfo.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorAssemblyInfo.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\staticwebassets\SystemWebDorms.StaticWebAssets.Manifest.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\staticwebassets\SystemWebDorms.StaticWebAssets.xml
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\scopedcss\bundle\SystemWebDorms.styles.css
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.TagHelpers.input.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.TagHelpers.output.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorCoreGenerate.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Create.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Delete.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Details.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorTargetAssemblyInfo.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorTargetAssemblyInfo.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.Views.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.csproj.CopyComplete
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\ref\SystemWebDorms.dll
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.pdb
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.genruntimeconfig.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.csproj.AssemblyReference.cache
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\ammon_dormitory\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\andalus_dormitory\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\contactUs\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\jerash_dormitory\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\zahraa_dormitory\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Index.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Edit.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\EditUser.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Login.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Accounts\Register.cshtml.g.cs
+E:\Graduation Project\Source_Code\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout_account.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\appsettings.Development.json
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\appsettings.json
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.exe
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.deps.json
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.runtimeconfig.json
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.runtimeconfig.dev.json
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ref\SystemWebDorms.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.pdb
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.Views.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\SystemWebDorms.Views.pdb
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Humanizer.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SystemWebDorms\SystemWebDorms\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.csproj.AssemblyReference.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.GeneratedMSBuildEditorConfig.editorconfig
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.AssemblyInfoInputs.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.AssemblyInfo.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.csproj.CoreCompileInputs.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.MvcApplicationPartsAssemblyInfo.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorAssemblyInfo.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorAssemblyInfo.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\staticwebassets\SystemWebDorms.StaticWebAssets.Manifest.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\staticwebassets\SystemWebDorms.StaticWebAssets.xml
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\scopedcss\bundle\SystemWebDorms.styles.css
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.TagHelpers.input.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.TagHelpers.output.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorCoreGenerate.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterDorm\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterMenu\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSlider\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\MasterSocialMedium\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout_account.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\SystemSetting\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransContactUs\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormDoubleRoom\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormNight\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInnerDormTripleRoom\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoomSister\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormDoubleRoom\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormNightRoom\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormSingleRoom\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Create.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Delete.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Details.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Edit.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\TransInternationalDormTripleRoom\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\ammon_dormitory\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\andalus_dormitory\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\contactUs\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\jerash_dormitory\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\zahraa_dormitory\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorTargetAssemblyInfo.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.RazorTargetAssemblyInfo.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.Views.pdb
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.csproj.CopyComplete
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.dll
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\ref\SystemWebDorms.dll
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.pdb
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\SystemWebDorms.genruntimeconfig.cache
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Index.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Account_Front\Register.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Shared\_Layout_Account_Front.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\Account_Front\Login.cshtml.g.cs
+E:\SystemWebDorms\SystemWebDorms\obj\Debug\net5.0\Razor\Views\zahraa_dormitory\Index1.cshtml.g.cs

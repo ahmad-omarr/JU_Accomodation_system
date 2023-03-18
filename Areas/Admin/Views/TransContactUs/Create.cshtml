@@ -1,0 +1,114 @@
+﻿@model SystemWebDorms.Areas.Admin.ViewModels.VM_TransContactUs
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div class="pagetitle">
+    <h1>ContactUs</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="TransContactUs">Manage ContactUs</a></li>
+            <li class="breadcrumb-item active">Create</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div class="row">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUsTitle" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactUsTitle" class="form-control" />
+                                    <span asp-validation-for="TransContactUsTitle" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUsFirstName" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactUsFirstName" class="form-control" />
+                                    <span asp-validation-for="TransContactUsFirstName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUsLastName" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactUsLastName" class="form-control" />
+                                    <span asp-validation-for="TransContactUsLastName" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUsStudentNumber" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactUsStudentNumber" class="form-control" />
+                                    <span asp-validation-for="TransContactUsStudentNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUsDiscrption" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactUsDiscrption" class="form-control" />
+                                    <span asp-validation-for="TransContactUsDiscrption" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUsDate" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactUsDate" class="form-control" />
+                                    <span asp-validation-for="TransContactUsDate" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactLinkUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransContactLinkUrl" class="form-control" />
+                                    <span asp-validation-for="TransContactLinkUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransContactUrlImage" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="File" class="form-control"/>
+                                    <span asp-validation-for="File" class="text-danger"></span>
+                                </div>
+                            </div>
+
+
+                            <div class="form-group " style="direction:rtl;">
+                                <input type="submit" value="Create" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

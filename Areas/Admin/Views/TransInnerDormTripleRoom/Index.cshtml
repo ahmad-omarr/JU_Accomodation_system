@@ -1,0 +1,158 @@
+﻿@model IEnumerable<SystemWebDorms.Models.TransInnerDormTripleRoom>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="pagetitle">
+    <h1>Trans Inner Dorm Triple Room</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item active">Inner Dorm Triple Room</li>
+            <li class="breadcrumb-item active">Index</li>
+        </ol>
+    </nav>
+
+</div>
+<div class="r_dir">
+    <a asp-action="Create" asp-controller="TransInnerDormTripleRoom" value="Create" class="btn btn-primary ">Create</a>
+</div>
+<br />
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+
+            <div class="card">
+                <div class="card-body">
+                    <table class="table datatable">
+                        <thead>
+                            <tr>
+
+                                <th>
+                                    @Html.DisplayNameFor(model => model.MasterDorm.MasterDormName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransZahraaDormTripleRoomTitle)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransZahraaDormTripleRoomBrief)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransZahraaDormTripleRoomImage)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransZahraaDormTripleRoomLinkUrl)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransAndalusDormTripleRoomTitle)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransAndalusDormTripleRoomBrief)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransAndalusDormTripleRoomImage)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.TransAndalusDormTripleRoomLinkUrl)
+                                </th>
+                                <th>Action</th>
+                                <th>Edit </th>
+                                <th>Details</th>
+                                <th>Delete</th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.MasterDorm.MasterDormName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TransZahraaDormTripleRoomTitle)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TransZahraaDormTripleRoomBrief)
+                                    </td>
+
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TransZahraaDormTripleRoomLinkUrl)
+                                    </td>
+                                    <td>
+                                        <img src="~/WebImages/TransInnerDormTripleRoom/@item.TransZahraaDormTripleRoomImage" alt="Alternate Text" style="  width:60px" />
+
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TransAndalusDormTripleRoomTitle)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TransAndalusDormTripleRoomBrief)
+                                    </td>
+
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.TransAndalusDormTripleRoomLinkUrl)
+                                    </td>
+                                    <td>
+                                        <img src="~/WebImages/TransInnerDormTripleRoom/@item.TransAndalusDormTripleRoomImage" alt="Alternate Text" style="  width:60px" />
+
+                                    </td>
+                                    @if (item.IsActive == true)
+                                    {
+                                        <td style="width:40px">
+                                            <a asp-action="Active" asp-route-id="@item.TransInnerDormTripleRoomId" asp-controller="TransInnerDormTripleRoom"><img src="~/images/Icons/IconActive1.png" style="margin-left: 10px; width: 25px " class="center" onclick="Active(@item.TransInnerDormTripleRoomId)" /></a>
+                                        </td>
+                                    }
+
+                                    else if (item.IsActive == false)
+                                    {
+                                        <td style="width:40px">
+                                            <a asp-action="Active" asp-route-id="@item.TransInnerDormTripleRoomId" asp-controller="TransInnerDormTripleRoom"><img src="~/images/Icons/IconNotActive1.png" style="margin-left: 10px; width: 25px " class="center" onclick="Active(@item.TransInnerDormTripleRoomId)" /></a>
+                                        </td>
+
+                                    }
+
+                                    <td style="width: 40px">
+                                        <a asp-action="Edit" asp-route-id="@item.TransInnerDormTripleRoomId" asp-controller="TransInnerDormTripleRoom"><img src="~/images/Icons/IconEdit.png" style="margin-left: 10px; width: 25px " class="center" /></a>
+                                    </td>
+
+                                    <td style="width: 40px">
+                                        <a asp-action="Details" asp-route-id="@item.TransInnerDormTripleRoomId" asp-controller="TransInnerDormTripleRoom"><img src="~/images/Icons/IconDetails.png" style="margin-left: 15px; width: 25px" class="center" /></a>
+                                    </td>
+                                    <td class="td_option">
+                                        <a id="myModal" class="deleteItem" href="#" data-target="#basic"
+                                           data-toggle="modal"
+                                           data-path="@Url.Action("Delete","TransInnerDormTripleRoom", new { id = @item.TransInnerDormTripleRoomId }) ">
+                                            <img src="~/images/Icons/IconDelete.png" title="delete" height="25" />
+                                        </a>
+                                    </td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="modal fade" id="basic" tabindex="-1" role="basic" aria-hidden="true" style="display: none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title">Delete Confirmation</h4>
+            </div>
+            <div class="modal-body">
+                Are you sure you want to delete this item?
+            </div>
+            <div class="modal-footer">
+                <button data-dismiss="modal" type="button" class="btn btn-default">Cancel</button>
+                <button id="btnContinueDelete" type="button" class="btn btn-primary">Delete</button>
+            </div>
+        </div>
+    </div>
+</div>

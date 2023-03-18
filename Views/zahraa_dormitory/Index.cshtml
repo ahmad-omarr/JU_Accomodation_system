@@ -1,0 +1,272 @@
+﻿@model SystemWebDorms.ViewModels.VM_Front
+
+@{
+    ViewData["Title"] = "Index";
+
+
+}
+
+<!-- Start dorms -->
+<div class="dorms mt-5 mb-5">
+    <div class="container">
+        <div class="spical-heder mb-5 text-center">
+            <h1>Zahraa</h1>
+        </div>
+        <!-- start Double room  -->
+        <!-- select type of room -->
+
+        <div class="mx-auto " style="width: 34%;">
+
+            <select class="form-select form-select-lg mb-5 bg-secondary bg-gradient" aria-label=".form-select-lg example">
+                <option value="0" selected>Select Type Of Room</option>
+                <option value="1">Doube Room</option>
+                <option value="2">Triple Room</option>
+                <option value="3">Night Room</option>
+            </select>
+
+        </div>
+        <div id="double">
+
+            <div class="row">
+                <h3 class="text-black-50 mb-5">
+                    <i class="fa-solid fa-plus"></i> Double room
+                </h3>
+
+                @foreach (var item in Model.ListTransInnerDormDoubleRoom)
+                {
+                    <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5 shadow p-3 mb-5 bg-body rounded">
+                        <div class="bg-light image">
+                            <img class="img-fluid images" src="~/WebImages/TransInnerDormDoubleRoom/@item.TransZahraaDormDoubleRoomImage" alt="" />
+                            <h3>@item.TransZahraaDormDoubleRoomTitle</h3>
+                            <p class="Brief text-center p-2">
+                                @item.TransZahraaDormDoubleRoomBrief
+                            </p>
+                            <h3 class="mt-3">@item.TransZahraaDormDoubleRoomLinkUrl</h3>
+                            @*<a class="btn rounded-pill main-btn mb-4" href="">payment</a>*@
+
+                            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                Booking
+                            </button>
+                            <!-- Modal -->
+                            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <div>
+
+                                                <p class="payTittle">Card Information</p>
+                                                <div class="cardIcons">
+                                                    <img src="~/lib/images/visa.png" width="40" alt="" class="cardIcon">
+                                                    <img src="~/lib/images/master.png" width="40" alt="" class="cardIcon">
+                                                </div>
+                                                <input type="password" class="payInput" placeholder="Card Number">
+                                                <div class="cardInfo">
+                                                    <input type="text" placeholder="mm" class="payInput sm">
+                                                    <input type="text" placeholder="yyyy" class="payInput sm">
+                                                    <input type="text" placeholder="cvv" class="payInput sm">
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                            <button type="button" class="btn btn-primary">Payment</button>
+                                        </div>
+                                        <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+
+                                            <symbol id="info-fill" fill="currentColor" viewBox="0 0 16 16">
+                                                <path d="M8 16A8 8 0 1 0 8 0a8 8 0 0 0 0 16zm.93-9.412-1 4.705c-.07.34.029.533.304.533.194 0 .487-.07.686-.246l-.088.416c-.287.346-.92.598-1.465.598-.703 0-1.002-.422-.808-1.319l.738-3.468c.064-.293.006-.399-.287-.47l-.451-.081.082-.381 2.29-.287zM8 5.5a1 1 0 1 1 0-2 1 1 0 0 1 0 2z" />
+                                            </symbol>
+
+                                        </svg>
+
+
+                                        <div class="alert alert-success d-flex align-items-center" role="alert">
+                                            <svg class="bi flex-shrink-0 me-2" width="24" height="24" role="img" aria-label="Success:"><use xlink:href="#check-circle-fill" /></svg>
+                                            <div>
+                                                An example success alert with an icon
+                                            </div>
+                                        </div>
+
+
+
+
+
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            @*<div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/lib/images/room2.jpg" alt="" />
+                        <h3 class="mt-3">$250</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/lib/images/room3.jpg" alt="" />
+                        <h3 class="mt-3">$250</h3>
+                        <a class="btn rounded-pill main-btn mb-4"
+                           href="dorms/zahraa-dormitory.html">payment</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/lib/images/room4.jpg" alt="" />
+                        <h3 class="mt-3">$250</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                    </div>
+                </div>*@
+        </div>
+        <!-- End Double room    -->
+        <!-- start Triple system room   -->
+        <div id="triple">
+            <div class="row mt-5">
+                <h3 class="text-black-50 mb-5">
+                    <i class="fa-solid fa-plus"></i> Triple system room
+                </h3>
+                @foreach (var item in Model.ListTransInnerDormTripleRoom)
+                {<div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                        <div class="bg-light image">
+                            <img class="img-fluid images" src="~/WebImages/TransInnerDormTripleRoom/@item.TransZahraaDormTripleRoomImage" alt="" />
+                            <h3>@item.TransZahraaDormTripleRoomTitle</h3>
+
+                            <p class="Brief text-center p-2">
+                                @item.TransZahraaDormTripleRoomBrief
+                            </p>
+                            <h3 class="mt-3">@item.TransZahraaDormTripleRoomLinkUrl</h3>
+                            <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            @*
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/lib/images/room2.jpg" alt="" />
+                        <h3 class="mt-3">$150</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/lib/images/room3.jpg" alt="" />
+                        <h3 class="mt-3">$150</h3>
+                        <a class="btn rounded-pill main-btn mb-4"
+                           href="dorms/zahraa-dormitory.html">payment</a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                    <div class="bg-light image">
+                        <img class="img-fluid images" src="~/lib/images/room4.jpg" alt="" />
+                        <h3 class="mt-3">$150</h3>
+                        <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                    </div>
+                </div>*@
+        </div>
+
+        <!-- End Triple system room  -->
+        <!-- start Temporary overnight stay (one night)  -->
+        <div id="night">
+            <div class="row mt-5">
+                <h3 class="text-black-50 mb-5">
+                    <i class="fa-solid fa-plus"></i> Temporary overnight stay (one
+                    night)
+                </h3>
+                @foreach (var item in Model.ListTransInnerDormNight)
+                {
+                    <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                        <div class="bg-light image">
+                            <img class="img-fluid images" src="~/WebImages//TransInnerDormNight/@item.TransZahraaDormNightRoomImage" alt="" />
+                            <h3>@item.TransZahraaDormNightRoomTitle</h3>
+                            <p class="Brief text-center p-2">
+                                @item.TransZahraaDormNightRoomBrief
+                            </p>
+                            <h3 class="mt-3">@item.TransZahraaDormNightRoomLinkUrl</h3>
+                            <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                        </div>
+                    </div>
+                }
+
+            </div>
+            @*
+                    <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                        <div class="bg-light image">
+                            <img class="img-fluid images" src="~/lib/images/room2.jpg" alt="" />
+                            <h3 class="mt-3">$10</h3>
+                            <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                        <div class="bg-light image">
+                            <img class="img-fluid images" src="~/lib/images/room3.jpg" alt="" />
+                            <h3 class="mt-3">$10</h3>
+                            <a class="btn rounded-pill main-btn mb-4"
+                               href="dorms/Andalus-dormitory.html">payment</a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-3 col-md-4 col-sm-6 text-center pl-5 mb-5">
+                        <div class="bg-light image">
+                            <img class="img-fluid images" src="~/lib/images/room4.jpg" alt="" />
+                            <h3 class="mt-3">$10</h3>
+                            <a class="btn rounded-pill main-btn mb-4" href="#">payment</a>
+                        </div>
+                    </div>
+                </div>*@
+
+            <!-- End Temporary overnight stay (one night)  -->
+        </div>
+    </div>
+</div>
+<!-- end dorms -->
+<script>
+    let select = document.querySelector("select");
+    let selectValue;
+
+    var double = document.getElementById("double");
+    var triple = document.getElementById("triple");
+    var night = document.getElementById("night");
+
+
+    select.addEventListener('change', () => {
+        selectValue = select.options[select.selectedIndex].value;
+        if (selectValue == "1") {
+            triple.style.display = "none";
+            double.style.display = "block";
+            night.style.display = "none";
+
+        } else if (selectValue == "2") {
+            triple.style.display = "block";
+            double.style.display = "none";
+            night.style.display = "none";
+
+
+        } else if (selectValue == "3") {
+            triple.style.display = "none";
+            double.style.display = "none";
+            night.style.display = "block";
+
+        } else {
+            triple.style.display = "block";
+            double.style.display = "block";
+            night.style.display = "block";
+
+        }
+
+    });
+</script>

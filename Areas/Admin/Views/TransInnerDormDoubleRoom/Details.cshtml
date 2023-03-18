@@ -1,0 +1,73 @@
+﻿@model SystemWebDorms.Models.TransInnerDormDoubleRoom
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>TransInnerDormDoubleRoom</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransZahraaDormDoubleRoomTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransZahraaDormDoubleRoomTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransZahraaDormDoubleRoomBrief)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransZahraaDormDoubleRoomBrief)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransZahraaDormDoubleRoomImage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransZahraaDormDoubleRoomImage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransZahraaDormDoubleRoomLinkUrl)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransZahraaDormDoubleRoomLinkUrl)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransAndalusDormDoubleRoomTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransAndalusDormDoubleRoomTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransAndalusDormDoubleRoomBrief)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransAndalusDormDoubleRoomBrief)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransAndalusDormDoubleRoomImage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransAndalusDormDoubleRoomImage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TransAndalusDormDoubleRoomLinkUrl)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TransAndalusDormDoubleRoomLinkUrl)
+        </dd>
+       
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MasterDorm)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MasterDorm.MasterDormId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.TransInnerDormDoubleRoomId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,123 @@
+﻿@model SystemWebDorms.Areas.Admin.ViewModels.VM_TransInnerDormNight
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="pagetitle">
+    <h1>Inner Dorm Night</h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="TransInnerDormNight">Manage Inner Dorm Night</a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Edit" enctype="multipart/form-data">
+                        <div class="row">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="TransInnerDormNightId" />
+
+                            <div class="form-group row mb-3 col-md-12">
+                                <label asp-for="MasterDormId" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    @*<select asp-for="MasterDormId" class ="form-control" asp-items="ViewBag.MasterDormId"></select>*@
+                                    <select asp-for="MasterDormId"
+                                            asp-items="@(new SelectList(Model.ListMasterDorm,"MasterDormId","MasterDormName"))"
+                                            class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransZahraaDormNightRoomTitle" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransZahraaDormNightRoomTitle" class="form-control" />
+                                    <span asp-validation-for="TransZahraaDormNightRoomTitle" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransZahraaDormNightRoomBrief" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransZahraaDormNightRoomBrief" class="form-control" />
+                                    <span asp-validation-for="TransZahraaDormNightRoomBrief" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransZahraaDormNightRoomLinkUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransZahraaDormNightRoomLinkUrl" class="form-control" />
+                                    <span asp-validation-for="TransZahraaDormNightRoomLinkUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransZahraaDormNightRoomImage" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input type="hidden" asp-for="TransZahraaDormNightRoomImage" class="form-control" />
+
+                                    <input asp-for="File_Zahraa" class="form-control"  />
+                                    <input type="hidden" asp-for="TransZahraaDormNightRoomImage" class="form-control" />
+                                    <img src="~/WebImages/TransInnerDormNight/@Model.TransZahraaDormNightRoomImage  " style="max-width:70px" />
+                                    <span asp-validation-for="File_Zahraa" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAndalusDormNightRoomTitle" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransAndalusDormNightRoomTitle" class="form-control" />
+                                    <span asp-validation-for="TransAndalusDormNightRoomTitle" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAndalusDormNightRoomBrief" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransAndalusDormNightRoomBrief" class="form-control" />
+                                    <span asp-validation-for="TransAndalusDormNightRoomBrief" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAndalusDormNightRoomLinkUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransAndalusDormNightRoomLinkUrl" class="form-control" />
+                                    <span asp-validation-for="TransAndalusDormNightRoomLinkUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAndalusDormNightRoomImage" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="File_Andalus" class="form-control"  />
+                                    <input type="hidden" asp-for="TransAndalusDormNightRoomImage" class="form-control" />
+                                    <img src="~/WebImages/TransInnerDormNight/@Model.TransAndalusDormNightRoomImage" style="max-width:70px" />
+                                    <span asp-validation-for="File_Andalus" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group " style="direction:rtl;">
+                                <input type="submit" value="Save" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

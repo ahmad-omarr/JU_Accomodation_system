@@ -1,0 +1,122 @@
+﻿@model SystemWebDorms.Areas.Admin.ViewModels.VM_TransInternationalDormSingleRoom
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="pagetitle">
+    <h1>International Dorm Single Room </h1>
+    <hr />
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/Home">Home</a></li>
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="TransInternationalDormSingleRoom">Manage International Dorm Single Room </a></li>
+            <li class="breadcrumb-item active">Edit</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<hr />
+<section class="section">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <br />
+                    <form asp-action="Edit" enctype="multipart/form-data">
+                        <div class="row">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <input type="hidden" asp-for="TransInternationalDormSingleRoomId" />
+
+                            <div class="form-group row mb-3 col-md-12">
+                                <label asp-for="MasterDormId" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    @*<select asp-for="MasterDormId" class ="form-control" asp-items="ViewBag.MasterDormId"></select>*@
+                                    <select asp-for="MasterDormId"
+                                            asp-items="@(new SelectList(Model.ListMasterDorm,"MasterDormId","MasterDormName"))"
+                                            class="form-control">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransJarashDormSingleRoomTitle" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransJarashDormSingleRoomTitle" class="form-control" />
+                                    <span asp-validation-for="TransJarashDormSingleRoomTitle" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransJerashDormSingleRoomBrief" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransJerashDormSingleRoomBrief" class="form-control" />
+                                    <span asp-validation-for="TransJerashDormSingleRoomBrief" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransJerashDormSingleRoomLinkUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransJerashDormSingleRoomLinkUrl" class="form-control" />
+                                    <span asp-validation-for="TransJerashDormSingleRoomLinkUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransJerashDormSingleRoomImage" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="File_Jerash" class="form-control"  />
+                                    <input type="hidden" asp-for="TransJerashDormSingleRoomImage" class="form-control" />
+                                    <img src="~/WebImages/TransInternationalDormSingleRoom/@Model.TransJerashDormSingleRoomImage  " style="max-width:70px" />
+                                    <span asp-validation-for="File_Jerash" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAmmonDormSingleRoomTitle" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransAmmonDormSingleRoomTitle" class="form-control" />
+                                    <span asp-validation-for="TransAmmonDormSingleRoomTitle" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAmmonDormSingleRoomBrief" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransAmmonDormSingleRoomBrief" class="form-control" />
+                                    <span asp-validation-for="TransAmmonDormSingleRoomBrief" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAmmonDormSingleRoomLinkUrl" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="TransAmmonDormSingleRoomLinkUrl" class="form-control" />
+                                    <span asp-validation-for="TransAmmonDormSingleRoomLinkUrl" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group row mb-3 col-md-6">
+                                <label asp-for="TransAmmonDormSingleRoomImage" class="col-sm-3 col-form-label bold"></label>
+                                <div class="col-sm-9">
+                                    <input asp-for="File_Ammon" class="form-control"  />
+                                    <input type="hidden" asp-for="TransAmmonDormSingleRoomImage" class="form-control" />
+                                    <img src="~/WebImages/TransInternationalDormSingleRoom/@Model.TransAmmonDormSingleRoomImage  " style="max-width:70px" />
+                                    <span asp-validation-for="File_Ammon" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group " style="direction:rtl;">
+                                <input type="submit" value="Save" class="btn btn-primary" />
+                                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
